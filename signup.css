@@ -2,6 +2,7 @@ body{
     background-image: url(img/bg5.png);
     background-repeat: no-repeat ;
     background-size: 100%;
+    background-color: rgb(4, 247, 255) ;
 }
 .center-form{
     text-align: center;
